@@ -4,8 +4,6 @@
 	June 9th , 2015
 	oliv7721@vandals.uidaho.edu
 */
-
-#include "stdafx.h"
 #include <iostream>
 #include <fstream>
 
