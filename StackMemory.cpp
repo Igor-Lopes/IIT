@@ -7,7 +7,7 @@ class Stack{
   public: void showResult(double d){
     double result;
     result = 1 - d;
-    cout << "The result is:" << result<<endl;
+    cout << "The result is:" << result << endl;
   }
 
 };
