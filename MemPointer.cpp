@@ -7,7 +7,7 @@ public: Process removeProcess(){
 			header = NULL;
 		} else {
 			p = header -> process;
-			ListPtr new_header = new Node;  Leak
+			ListPtr new_header = new Node;  //Leak
 			new_header = header -> next;
 			//header -> next = NULL; Leak
 			header = new_header;
